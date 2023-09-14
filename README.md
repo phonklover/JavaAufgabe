@@ -29,7 +29,8 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-[![Screen Shot][product-screenshot]](https://example.com)
+![Screen Shot](src/images/img.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,4 +43,4 @@ Technologien im Einsatz:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
-[product-screenshot]: images/main.png
+
