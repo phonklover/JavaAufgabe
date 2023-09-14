@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 # JavaAufgabe
-Meine erste Java Aufgabe 2023
+Meine erste Java Aufgabe 2023 <br>
 Author: Iordachi Laurentiu <br>
 LBS Eibiswald | 2aAPC
 
